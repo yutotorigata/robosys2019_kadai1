@@ -7,10 +7,10 @@
 #include <linux/uaccess.h>
 #include <linux/jiffies.h>
 
-MODULE_AUTHOR("s1526064");
+MODULE_AUTHOR("Yuto Torigata");
 MODULE_DESCRIPTION("driver for LED control");
 MODULE_LICENSE("GPL");
-MODULE_VERSION("0.0.1");
+MODULE_VERSION("0.1");
 
 #define LED_GPIO 25 
 #define MY_TIMER_SECS 5 
