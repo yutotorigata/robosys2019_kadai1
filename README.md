@@ -1,10 +1,10 @@
-# ロボットシステム学2017課題１
+# ロボットシステム学2019課題1
 
-* Webカメラ接続時にLEDが点灯するプログラムを作成
+* JOYSTICK接続時にLEDが点灯するプログラムを作成
 
-* main.pyを実行中にWebカメラを接続すると/dev/video0を検出
+* main.pyを実行中にJOYSTICKを接続すると/dev/js0を検出
 
-* タイマー機能を追加したデバイスドライバを利用し接続から２秒だけLEDが点灯
+* タイマー機能を追加したデバイスドライバを用いて接続から5秒だけLEDが点灯
 
 ## License
 
@@ -12,4 +12,4 @@
 
 ## Demo video
 
-[![](https://img.youtube.com/vi/oVSrRisByJU/0.jpg)](https://www.youtube.com/watch?v=oVSrRisByJU)
+https://www.youtube.com/watch?v=Gdx5WzzlZyY
